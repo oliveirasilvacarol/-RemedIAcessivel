@@ -13,6 +13,7 @@ Projeto de criação de um aplicativo para o Fly Education.
 O que o projeto faz?
 
 Criação de uma ideia  desenvolver um aplicativo mobile  que faça diferença na vida da população.
+
 Por que o projeto é útil?
 
 Projeto é útil, pois será desenvolvido para atender pessoas que residam em localidades distantes do seu centro de saúde , afim de informar se tem o medicamento que o indivíduo necessita, gerando assertividade na retirada do medicamento no dia agendado.
