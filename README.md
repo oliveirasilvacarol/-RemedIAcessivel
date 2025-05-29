@@ -11,8 +11,9 @@ Projeto de criação de um aplicativo para o Fly Education.
 
 
 O que o projeto faz?
+REMEDIACESSIVEL, é um chatbot simples e acessível, que funciona até nos celulares mais básicos. Sem necessidade de downloads ou burocracia, o usuário conversa por mensagem de texto com uma inteligência artificial que agenda a retirada do medicamento no posto de saúde mais próximo.
 
-Criação de uma ideia  desenvolver um aplicativo mobile  que faça diferença na vida da população.
+
 
 Por que o projeto é útil?
 
@@ -20,13 +21,15 @@ Projeto é útil, pois será desenvolvido para atender pessoas que residam em lo
 
 Como os usuários podem começar a usar o projeto?
 
-Implantar no sistema SUS  em todas as regiões do Brasil, e os usuários com simples clique  no seu aplicativo faça agendamento no dia e horário que necessita.
+Por meio de uma plataforma de cadastro, o chatbot conhece o endereço e os medicamentos de cada usuário, tornando o processo rápido, claro e humanizado. Sendo assim, o indivíduo não depende mais de terceiros para saber quando e onde pegar seus remédios — reduzindo riscos à saúde, evitando faltas no tratamento e fortalecendo a rede pública.
 
 Onde os usuários podem obter ajuda com seu projeto?
 
 No centro de saúde onde ele é cadastrado.
 
-Quem mantém e contribui com o projeto?
+O futuro? O REMEDIACESSIVEL será integrado diretamente ao DATASUS, pronto para ser adotado em postos de saúde, redes de atenção básica e políticas públicas.
+Se você acredita que saúde é um direito, não um privilégio, junte-se a nós para fazer essa transformação acontecer.
+
 
 Desenvolvedores do projeto são:
 Alessandra;
