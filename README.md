@@ -1,5 +1,5 @@
 # -RemedIAcessivel
-Projeto de criação de um aplicativo para o Fly Education.
+Projeto de criação de um Chatbot para o TCC da Fly Education.
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
